@@ -1,8 +1,8 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
 
-        <item name="android:statusBarColor" tools:targetApi="lollipop">@android:color/black</item>
+        <item name="android:windowTranslucentStatus">true</item>
         <item name="colorPrimary">#3F51B5</item>
         <item name="colorPrimaryDark">#303F9F</item>
         <item name="colorAccent">#FF4081</item>
@@ -41,6 +41,9 @@
         <item name="android:layout_height">wrap_content</item>
         <item name="android:layout_margin">@dimen/margin_in</item>
         <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/button_background</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:textStyle">bold</item>
         <item name="android:padding">@dimen/padding</item>
     </style>
 

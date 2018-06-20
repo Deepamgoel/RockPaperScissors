@@ -2,7 +2,7 @@
 <resources>
     <dimen name="margin">16dp</dimen>
     <dimen name="margin_in">8dp</dimen>
-    <dimen name="margin_top">30dp</dimen>
+    <dimen name="margin_top">24dp</dimen>
     <dimen name="team_name_size">24sp</dimen>
     <dimen name="score_size">56sp</dimen>
     <dimen name="hand_height">125dp</dimen>
