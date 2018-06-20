@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RockPaperScissor</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="scissors">Scissors</string>
+    <string name="team_a">COMP</string>
+    <string name="team_b">USER</string>
+    <string name="team_a_img">Team A Image</string>
+    <string name="team_b_img">Team B Image</string>
+    <string name="score_a">0</string>
+    <string name="score_b">0</string>
+    <string name="reset">Reset</string>
+    <string name="background">background</string>
+</resources>
